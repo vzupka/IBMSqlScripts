@@ -7,7 +7,7 @@ vzupka@gmail.com
 
 This project is not installed, it is ready to use as a Java application in the directory of the project. The application requires Java SE 8 installed in PC.
 
-User documentation can be found in the subdirectory "documents".
+User documentation can be found in the subdirectory "helpfiles".
 
 Creation of this application was motivated by the fact that the popular utility Query/400 (later called Query for i) is unable to display and print all characters coded in character sets UCS-2 (CCSID 13488), UTF-16 (CCSID 1200), or UTF-8 (CCSID 1208).
 This application enables creating, saving and running scripts of SQL statements for the IBM DB2 for i as well as flexible formatting and printing of the results.
